@@ -1,0 +1,20 @@
+{
+  "name": "z",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "clean": "gatsby clean"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gatsby": "2.24.85",
+    "gatsby-theme-andy": "^0.2.1",
+    "react": "16.13.1",
+    "react-dom": "16.13.1"
+  }
+}
