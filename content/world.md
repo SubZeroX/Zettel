@@ -1,3 +1,0 @@
-asdasd
-asdasd
-[[David Hume]]

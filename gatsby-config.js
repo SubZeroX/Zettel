@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'My Notes',
+    title: 'Highlights do grupo Zettel',
   },
   plugins: [`gatsby-theme-andy`, `gatsby-plugin-offline`],
   pathPrefix: `/Zettel`,
