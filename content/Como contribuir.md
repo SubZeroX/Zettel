@@ -11,15 +11,15 @@ Tutorial basicão para contribuir na construção do jardim digital.
 9. Rode "git push -u origin dev"
 10. Certifique-se que você está na branch "dev", na dúvida rode "git checkout dev"
 11. Agora, rode "git pull" para testar se tudo está funcionando.
-12. Agora, editaremos o .gitignore, use um editor de texto de preferência e adicione o seguinte texto: 
-node_modules/
-.cache/
-.obsidian/
-public/
-gatsby-config
-package
-package-lock
-yarn
+12. Agora, editaremos o .gitignore, use um editor de texto de preferência e adicione o seguinte texto:   
+node_modules/   
+.cache/   
+.obsidian/   
+public/   
+gatsby-config    
+package   
+package-lock   
+yarn   
 13. Rodaremos agora "git add ."
 14. "git commit -m 'Meu primeiro commit'"
 15. "git push -u origin dev"
