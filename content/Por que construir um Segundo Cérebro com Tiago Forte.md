@@ -13,7 +13,7 @@ Pessoal: Pensa nas experiências pessoais que você teve, suas dores, suas vitó
 
 Nunca comece com uma tela em branca. Sempre tenha suas notas organizadas antes de começar a criar algo criativo.
 
-![[Mindset of Creator.png]]
+![Mindset of Creator.png](Mindset%20of%20Creator.png)
 
 
 > Quando você não está tão focado em consumir, você começa a criar mais conteúdo. A exaustão devida à sobrecarga de informações diminui.
