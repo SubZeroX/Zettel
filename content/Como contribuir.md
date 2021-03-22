@@ -52,6 +52,9 @@ Certifique-se de outra coisa. Essa configuração deve estar exatamente igual: !
 ## Wikilinks
 Wikilinks podem ser usados normalmente. ![Pasted image 20210318230836.png](Pasted%20image%2020210318230836.png)
 
+## Pasta content como receptora de novas notas
+Altere essa configuração para que novas notas sejam inseridas diretamente na pasta "content"
+![[Pasted image 20210322161941.png]]
+
 ## Atenção
 Não alterar nenhum outro arquivos das outras pastas que não sejam a "content" e a "static".
-
