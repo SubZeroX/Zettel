@@ -4,6 +4,8 @@ Esse é o jardim digital compartilhado do grupo "Zettel". Aprenda [[Como contrib
 
 Afinal, [[O que é um jardim digital]]?
 
+Os próximos objetivos e o trabalho mais atual estão na página [[now]].
+
 Tentaremos manter essa página inicial como um MOC, o qual pode ser encontrado abaixo:
 
 + Saúde
@@ -15,3 +17,4 @@ Tentaremos manter essa página inicial como um MOC, o qual pode ser encontrado a
 	+ [[Por que o contexto é importante]]?
 	+ [[A importância da transmissão da mensagem]]
 	+ [[Trabalhar com a porta da garagem aberta]]
+	+ [[A importância da página now]]
