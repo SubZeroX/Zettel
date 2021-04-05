@@ -27,17 +27,17 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-da577449f9a8a3fb2a87.js"
+    "url": "webpack-runtime-fc32ca41d1ca34c20d1c.js"
   },
   {
     "url": "framework-c01a0bd4b9d4919906bb.js"
   },
   {
-    "url": "app-7da96ffd6759ba269c41.js"
+    "url": "app-6648f42142b1eee40be5.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "d753da70d6dafae0c2cc3d798535725c"
+    "revision": "d72eca63d17b594d896b55aa37c78bf1"
   },
   {
     "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-19245c8506e49b502b12.js"
@@ -48,7 +48,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/app-data.json",
-    "revision": "c06533983440d6debfff0a372a952ef2"
+    "revision": "86b653590957276b4ced53eb9e809cf5"
   },
   {
     "url": "polyfill-72546b9ca477f57c2f2e.js"
@@ -143,7 +143,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/Zettel/app-7da96ffd6759ba269c41.js`))) {
+  if (!resources || !(await caches.match(`/Zettel/app-6648f42142b1eee40be5.js`))) {
     return await fetch(event.request)
   }
 
